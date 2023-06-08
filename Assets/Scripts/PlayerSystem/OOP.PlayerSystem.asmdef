@@ -1,0 +1,17 @@
+{
+    "name": "OOP.PlayerSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:585fb69e0f8748e41a6c2bc3e119db32",
+        "GUID:a9769611b8179e245baa31916ffbfd9b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

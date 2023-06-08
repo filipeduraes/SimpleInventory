@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdf0b3b2a058430da95459d22a71938a, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  _name: Sword
+  _description: A sword is an edged, bladed weapon intended for manual cutting or
+    thrusting. Its blade, longer than a knife or dagger, is attached to a hilt and
+    can be straight or curved.
+  _icon: {fileID: 21300000, guid: fc457b1b0cfe9f64a82f4d0654a063c9, type: 3}
+  _damageDealt: 10
+  _durability: 3
